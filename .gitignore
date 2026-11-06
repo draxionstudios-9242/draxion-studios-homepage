@@ -1,0 +1,4 @@
+.DS_Store
+Homepage/node_modules/
+Homepage/dist/
+*.local
